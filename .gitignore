@@ -1,0 +1,8 @@
+*.DStore
+*.vscode
+*.pyc
+*.ipynb_checkpoints
+*.ipynb
+*__pycache__
+
+!tradotron.ipynb
